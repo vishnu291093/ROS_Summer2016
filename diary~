@@ -16,5 +16,3 @@ Slam- Kalman filter, EKF slam, Particle filter, graph slam, visual slam
 Work on Part 2.
 This prt will also look into the structure of the program without the key algorthim.So compatibility with any world and any robot.
 Estimated time for completion 4 days
-
-Update1: The cost map which is needed for path plannig cmes witht he navigation stack.So the the nvigation stack noe is requirement
